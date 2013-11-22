@@ -1,2 +1,7 @@
-what does git clone does ?
+Git clone, copy a project repository from git hub and set up the project locally. it is the equivalent of
+
+- create folder
+- go in folder
+- git init
+- git remote add origin git@github.com:chettam/git_test_questions.git
 

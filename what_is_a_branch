@@ -1,1 +1,5 @@
-What is the purpose of a branch ?
+the purpose of a branch is to create a parallel version of another branch.
+
+the overall goal is to modify code separatly without impacting the code base of the original branch
+
+you can use branch to devlop new features, fix bugs, keep track of versions (if you don't use tags)

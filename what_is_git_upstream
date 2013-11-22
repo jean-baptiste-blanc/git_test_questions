@@ -1,1 +1,2 @@
-What is the diference between upstream and origin ?
+The upstream is a  remote repository that you can pull but not write to. 
+for example , when forking a repo , the orignial repository will be the upstream, while the repo in my github account will be  the origin.
